@@ -25,7 +25,8 @@ body {
 }
 
 .title {
-    padding-top: 15px;
+    padding-top: 7.5px;
+    padding-bottom: 7.5px; 
 }
 
 p, ul, a {
@@ -57,7 +58,7 @@ header {
 footer {
     display: flex; 
     bottom: 0; 
-    align-items: left;
-    padding-top: 25px; 
-    padding-bottom: 20px;
+    padding: 10px;
+    align-items: center;
+    justify-content: center; 
 }
